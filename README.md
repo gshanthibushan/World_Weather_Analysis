@@ -29,14 +29,14 @@ The purpose of World_Weather_Analysis, retrieving and analyzing weather data usi
 1. Retrieve Weather Data
   * Jupyter Notebook: Weather_Database.ipynb
   * Result csv file: WeatherPy_challenge.csv
-  * ![image](https://user-images.githubusercontent.com/79486450/114320685-124a9c80-9ae5-11eb-818c-162e65a05b36.png)
+    ![image](https://user-images.githubusercontent.com/79486450/114320685-124a9c80-9ae5-11eb-818c-162e65a05b36.png)
 
 2. Create a Customer Travel Destinations Map
   * Jupyter Notebook: Vacation_Search.ipynb
   * Result csv file: WeatherPy_vacation.csv
   * Result dataframe screenshot: Hotel_DataFrame.png
   * Google marker_layer map
-  * ![WeatherPy_vacation_map png](https://user-images.githubusercontent.com/79486450/114320709-33ab8880-9ae5-11eb-9aaf-99aed8acd030.png)
+    ![WeatherPy_vacation_map png](https://user-images.githubusercontent.com/79486450/114320709-33ab8880-9ae5-11eb-9aaf-99aed8acd030.png)
 
 3. Create a Travel Itinerary Map
   * Jupyter Notebook: Vacation_Itinerary.ipynb
@@ -44,6 +44,6 @@ The purpose of World_Weather_Analysis, retrieving and analyzing weather data usi
   * ![WeatherPy_travel_map](https://user-images.githubusercontent.com/79486450/114320728-56d63800-9ae5-11eb-96e1-27413f9298af.png)
 
   * Map with pop-up markers for the four cities:
-  * ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/79486450/114320734-5d64af80-9ae5-11eb-942a-664f8af69cb1.png)
+    ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/79486450/114320734-5d64af80-9ae5-11eb-942a-664f8af69cb1.png)
 
 
